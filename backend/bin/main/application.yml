@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springai7
+  ai:
+    google:
+      genai:
+        api-key: AIzaSyAztLAB7u_kZ8teGQKnB7Y--UjJNLvRhkw
+
+
