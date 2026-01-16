@@ -1,14 +1,13 @@
+
+React + Spring Boot + FastAPI + PostgreSQL 게시판 + AI 요약
+
+
 프로젝트 구조:
 spring-react-example/
 ├─ frontend/
 ├─ backend/
 └─ fastapi-ai/
 
-
-
-React + Spring Boot + FastAPI + PostgreSQL 게시판 + AI 요약
-
-구조는 이거 하나로 고정 👇
 
 
 React: 화면 (게시판 UI)
@@ -21,9 +20,9 @@ FastAPI: AI 요약 전용 서버
 
 Spring → FastAPI: HTTP로 요약 요청
 
-2-1.spring
+
 docker-compose.yml 작성 (DB 정의)
-📍 위치
+
 
 backend/docker-compose.yml
 
